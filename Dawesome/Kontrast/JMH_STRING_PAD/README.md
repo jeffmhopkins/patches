@@ -12,6 +12,15 @@ A warm, sustained string-style pad for **Dawesome Kontrast**.
 | **File** | [`JMH_STRING_PAD.kontrast`](JMH_STRING_PAD.kontrast) (9.1 MB) |
 | **SHA-256** | `b260d70a5f5941f938a8858fa53c5f0eed7f682f8e0959d644ccae8db24ffba6` |
 
+## Hear it
+
+[![SJ-084 - Linnstrument + Kontrast - Harmonic Minor 12 of 19 TET](https://i.ytimg.com/vi/C7RwmxHXH4w/hqdefault.jpg)](https://www.youtube.com/watch?v=C7RwmxHXH4w)
+
+**[SJ-084 — Linnstrument + Kontrast — Harmonic Minor 12 of 19 TET](https://www.youtube.com/watch?v=C7RwmxHXH4w)**
+
+This patch played from a LinnStrument, in harmonic minor tuned to 12 notes of
+19-TET.
+
 ## Macros
 
 The three macro controls are the intended way to play this patch:
