@@ -6,10 +6,10 @@ Everything in this repository is my own work — patches I built myself for the
 plugins and instruments I use. Nothing here is a factory preset, a
 repackaged commercial pack, or someone else's patch.
 
-**License:** [JMH Patches License 1.0](LICENSE) — Creative Commons Attribution 4.0
-as the base grant, plus a binding ethical-use condition. Use them in your music,
-commercially or not, no attribution needed for your tracks. See
-[Licensing](#licensing) below for the details.
+Copyright © 2026 Jeff M. Hopkins. **Licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).** Use them in your
+music, commercially or not — no attribution needed for your tracks. See
+[Licensing](#licensing) below.
 
 ---
 
@@ -54,24 +54,26 @@ Two general notes:
 ## Licensing
 
 These are creative works, not source code, so an MIT/GPL-style license would be
-a poor fit. The license here is [CC BY 4.0](LICENSE-CC-BY-4.0.txt) as its base
-grant, with one addition: it is **not** granted to hate groups, or for use in
-material made to promote violence, harassment, or discrimination. That
-condition is in [Section 2 of the LICENSE](LICENSE).
-
-What this means in practice:
+a poor fit. They're released under the
+[Creative Commons Attribution 4.0 International license](LICENSE) (CC BY 4.0) —
+the standard choice for shared preset packs.
 
 - ✅ Use these patches in your music — released, sold, streamed, licensed, whatever. **No attribution needed for your tracks.**
 - ✅ Modify them, build on them, make them your own.
-- ✅ Redistribute them or a preset pack based on them — just credit me and link the license.
-- ❌ Don't use them in or for hate propaganda, or redistribute them with the ethical condition stripped out.
+- ✅ Redistribute them, or a preset pack based on them — just credit me and link the license.
 
-Because Section 2 adds a condition, this is a **custom license, not a Creative
-Commons license** — GitHub won't auto-detect it, and Creative Commons doesn't
-endorse it. That's a deliberate tradeoff: a plain CC license can't carry a
-restriction like this, since CC BY 4.0 forbids adding terms that limit the
-rights it grants. If you need the unmodified CC BY 4.0 terms for a specific
-reuse, open an issue and ask.
+Attribution is only required when you redistribute **the patches themselves**
+(or modified versions of them) as patches. A track you made using one isn't a
+redistribution of the patch, so it needs no credit.
+
+To credit a redistribution:
+
+> Patches by Jeff M. Hopkins — https://github.com/jeffmhopkins/patches — licensed under CC BY 4.0
+
+One request, which is *not* a license term and not legally binding: please
+don't use these in material made to promote hate, violence, or harassment.
+CC BY 4.0 doesn't permit adding that as an actual restriction, so it's asked
+rather than enforced.
 
 ## Contributing
 

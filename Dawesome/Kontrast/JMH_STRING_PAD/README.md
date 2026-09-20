@@ -38,5 +38,5 @@ download the raw file, then import it through Kontrast's own preset browser.
 
 ## License
 
-[JMH Patches License 1.0](../../../LICENSE) — use it in your music freely,
-commercial or not, no attribution required for your tracks.
+[CC BY 4.0](../../../LICENSE) — use it in your music freely, commercial or
+not, no attribution required for your tracks.
