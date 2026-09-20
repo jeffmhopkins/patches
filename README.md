@@ -70,11 +70,6 @@ To credit a redistribution:
 
 > Patches by Jeff M. Hopkins — https://github.com/jeffmhopkins/patches — licensed under CC BY 4.0
 
-One request, which is *not* a license term and not legally binding: please
-don't use these in material made to promote hate, violence, or harassment.
-CC BY 4.0 doesn't permit adding that as an actual restriction, so it's asked
-rather than enforced.
-
 ## Contributing
 
 This is a personal collection of my own patches, so I'm not accepting patch
