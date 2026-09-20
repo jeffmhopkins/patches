@@ -11,7 +11,7 @@ dependencies to install.
 
 | Patch | Tags | Macros | Demo |
 |---|---|---|---|
-| [JMH_STRING_PAD](JMH_STRING_PAD) | pad, sustained, warm | SINGLE REED · WEIGHT · TIMBRE | [▶ SJ-084](https://www.youtube.com/watch?v=C7RwmxHXH4w) |
+| [JMH_STRING_PAD](JMH_STRING_PAD) | pad, sustained, warm, MPE | SINGLE REED · WEIGHT · TIMBRE | [▶ SJ-084](https://www.youtube.com/watch?v=C7RwmxHXH4w) |
 
 ## Installing
 

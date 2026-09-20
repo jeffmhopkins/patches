@@ -1,6 +1,7 @@
 # JMH_STRING_PAD
 
-A warm, sustained string-style pad for **Dawesome Kontrast**.
+A warm, sustained **MPE string patch** for **Dawesome Kontrast**, built and
+played on the **LinnStrument**.
 
 | | |
 |---|---|
@@ -9,6 +10,7 @@ A warm, sustained string-style pad for **Dawesome Kontrast**.
 | **Patch name** | `JMH_STRING_PAD` |
 | **Author** | JEFFM (Jeff M. Hopkins) |
 | **Tags** | `PAD` · `SUSTAINED` · `WARM` |
+| **Expression** | MPE — built for the LinnStrument |
 | **File** | [`JMH_STRING_PAD.kontrast`](JMH_STRING_PAD.kontrast) (9.1 MB) |
 | **SHA-256** | `b260d70a5f5941f938a8858fa53c5f0eed7f682f8e0959d644ccae8db24ffba6` |
 
@@ -21,9 +23,22 @@ A warm, sustained string-style pad for **Dawesome Kontrast**.
 This patch played from a LinnStrument, in harmonic minor tuned to 12 notes of
 19-TET.
 
+## Playing it
+
+This is an MPE patch. It's written to be played expressively from an MPE
+controller — a LinnStrument in my case — so per-note expression is doing a lot
+of the work you hear in the demo.
+
+You'll want an MPE-capable setup to get the most out of it:
+
+- Run Kontrast in a host with MPE enabled, or standalone with an MPE controller
+  connected.
+- On a non-MPE keyboard the patch still plays, but it will sit much flatter.
+  Drive the three macros by hand to make up for the expression you're missing.
+
 ## Macros
 
-The three macro controls are the intended way to play this patch:
+The three macro controls are the other half of the performance:
 
 1. **SINGLE REED**
 2. **WEIGHT**

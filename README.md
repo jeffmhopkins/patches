@@ -35,7 +35,7 @@ plugin, so the folder always matches what you'll see in the browser.
 
 | Vendor | Plugin | Patch | Tags |
 |---|---|---|---|
-| [Dawesome](Dawesome) | [Kontrast](Dawesome/Kontrast) | [JMH_STRING_PAD](Dawesome/Kontrast/JMH_STRING_PAD) | pad, sustained, warm |
+| [Dawesome](Dawesome) | [Kontrast](Dawesome/Kontrast) | [JMH_STRING_PAD](Dawesome/Kontrast/JMH_STRING_PAD) | pad, sustained, warm, MPE |
 
 ## Installing a patch
 
