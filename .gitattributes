@@ -1,0 +1,43 @@
+# Patch/preset files are binary. Never let Git normalize line endings in them,
+# never try to merge them, and don't spew binary into diffs.
+* -text
+
+# Text files we DO want normalized.
+*.md        text eol=lf
+*.txt       text eol=lf
+*.json      text eol=lf
+*.yml       text eol=lf
+*.yaml      text eol=lf
+.gitattributes text eol=lf
+.gitignore     text eol=lf
+LICENSE        text eol=lf
+
+# Explicitly mark known preset/patch formats as binary.
+*.kontrast  binary
+*.novum     binary
+*.abyss     binary
+*.fxp       binary
+*.fxb       binary
+*.vstpreset binary
+*.clap-preset binary
+*.aupreset  binary
+*.nksf      binary
+*.nmsv      binary
+*.h2p       binary
+*.serumpreset binary
+*.vital     binary
+
+# Audio and image demo material.
+*.wav  binary
+*.flac binary
+*.mp3  binary
+*.ogg  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+
+# VCV Rack patches are JSON, but treat them as opaque -- hand-merging a
+# .vcv/.vcvm is never what you want.
+*.vcv  -text -diff -merge
+*.vcvm -text -diff -merge
