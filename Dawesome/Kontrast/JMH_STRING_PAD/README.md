@@ -16,12 +16,10 @@ played on the **LinnStrument**.
 
 ## Hear it
 
-[![SJ-084 - Linnstrument + Kontrast - Harmonic Minor 12 of 19 TET](https://i.ytimg.com/vi/C7RwmxHXH4w/hqdefault.jpg)](https://www.youtube.com/watch?v=C7RwmxHXH4w)
-
-**[SJ-084 — Linnstrument + Kontrast — Harmonic Minor 12 of 19 TET](https://www.youtube.com/watch?v=C7RwmxHXH4w)**
-
-This patch played from a LinnStrument, in harmonic minor tuned to 12 notes of
-19-TET.
+| | |
+|---|---|
+| [![SJ-084 - Linnstrument + Kontrast - Harmonic Minor 12 of 19 TET](https://i.ytimg.com/vi/C7RwmxHXH4w/hqdefault.jpg)](https://www.youtube.com/watch?v=C7RwmxHXH4w) | [![SOUND JOURNAL - September 15th 2026 - Linnstrument and Kontrast](https://i.ytimg.com/vi/1tPur79ock8/hqdefault.jpg)](https://www.youtube.com/live/1tPur79ock8) |
+| **[SJ-084 — Harmonic Minor, 12 of 19-TET](https://www.youtube.com/watch?v=C7RwmxHXH4w)**<br>The patch played from a LinnStrument, in harmonic minor tuned to 12 notes of 19-TET. | **[Sound Journal — September 15th, 2026](https://www.youtube.com/live/1tPur79ock8)**<br>A full live session on LinnStrument and Kontrast. Long-form, so you can hear the patch across a whole performance. |
 
 ## Playing it
 
